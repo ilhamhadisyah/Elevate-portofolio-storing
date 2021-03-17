@@ -1,5 +1,5 @@
 # RecyclerView
-Still in first build(Beta version)
+First Build
 
 #Sample Included :
 1. RecyclerView
